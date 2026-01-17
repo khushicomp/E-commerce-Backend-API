@@ -81,4 +81,4 @@ Copy code
 ## Deployment
 Deployed on Render / Railway
 
-Live API: 
+Live API: https://e-commerce-backend-api-8fin.onrender.com/
